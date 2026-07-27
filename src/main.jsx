@@ -8,6 +8,7 @@ const products = [
   {brand:'MYPROTEIN', name:'Impact Whey Protein', size:'1 kg · Chocolate Smooth', off:'20% OFF', img:'/images/trending-03.jpg'},
   {brand:'FUEL ONE', name:'Whey Max Protein', size:'2 kg · Café Mocha', off:'22% OFF', img:'/images/trending-04.jpg'}
 ];
+
 const categories=[['Whey Protein','Build & repair muscle','🥛'],['Creatine','Power your training','⚡'],['Pre-Workout','Energy on demand','🔥'],['Vitamins','Daily wellness','✦'],['Weight Gainers','Big calories, bigger goals','↗'],['Fish Oil','Support your recovery','◉']];
 const brands=['OPTIMUM\nNUTRITION','MUSCLEBLAZE','myprotein','GNC','MUSCLETECH','DYMATIZE'];
 
